@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "William.Oop.GUI/1.0.0": {
+        "dependencies": {
+          "William.Oop.Library": "1.0.0"
+        },
+        "runtime": {
+          "William.Oop.GUI.dll": {}
+        }
+      },
+      "William.Oop.Library/1.0.0": {
+        "runtime": {
+          "William.Oop.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "William.Oop.GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "William.Oop.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

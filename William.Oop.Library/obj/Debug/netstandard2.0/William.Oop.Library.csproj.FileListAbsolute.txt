@@ -1,0 +1,9 @@
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop.Library\bin\Debug\netstandard2.0\William.Oop.Library.deps.json
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop.Library\bin\Debug\netstandard2.0\William.Oop.Library.dll
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop.Library\bin\Debug\netstandard2.0\William.Oop.Library.pdb
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop.Library\obj\Debug\netstandard2.0\William.Oop.Library.csprojAssemblyReference.cache
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop.Library\obj\Debug\netstandard2.0\William.Oop.Library.AssemblyInfoInputs.cache
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop.Library\obj\Debug\netstandard2.0\William.Oop.Library.AssemblyInfo.cs
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop.Library\obj\Debug\netstandard2.0\William.Oop.Library.csproj.CoreCompileInputs.cache
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop.Library\obj\Debug\netstandard2.0\William.Oop.Library.dll
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop.Library\obj\Debug\netstandard2.0\William.Oop.Library.pdb

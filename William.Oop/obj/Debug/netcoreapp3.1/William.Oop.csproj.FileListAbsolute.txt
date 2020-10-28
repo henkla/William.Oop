@@ -1,0 +1,16 @@
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\bin\Debug\netcoreapp3.1\William.Oop.exe
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\bin\Debug\netcoreapp3.1\William.Oop.deps.json
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\bin\Debug\netcoreapp3.1\William.Oop.runtimeconfig.json
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\bin\Debug\netcoreapp3.1\William.Oop.runtimeconfig.dev.json
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\bin\Debug\netcoreapp3.1\William.Oop.dll
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\bin\Debug\netcoreapp3.1\William.Oop.pdb
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\obj\Debug\netcoreapp3.1\William.Oop.csprojAssemblyReference.cache
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\obj\Debug\netcoreapp3.1\William.Oop.AssemblyInfoInputs.cache
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\obj\Debug\netcoreapp3.1\William.Oop.AssemblyInfo.cs
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\obj\Debug\netcoreapp3.1\William.Oop.csproj.CoreCompileInputs.cache
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\obj\Debug\netcoreapp3.1\William.Oop.dll
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\obj\Debug\netcoreapp3.1\William.Oop.pdb
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\obj\Debug\netcoreapp3.1\William.Oop.genruntimeconfig.cache
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\bin\Debug\netcoreapp3.1\William.Oop.Library.dll
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\bin\Debug\netcoreapp3.1\William.Oop.Library.pdb
+C:\Users\hln036\Utveckling\Repositories\Ny mapp\William.Oop\William.Oop\obj\Debug\netcoreapp3.1\William.Oop.csproj.CopyComplete
